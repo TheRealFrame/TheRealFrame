@@ -1,2 +1,4 @@
-# Profile_Config
-This is my profile configuration, nothing to see here but if you want you can copy it :) 
+Hello there, I'm Rick aka Frame 👽
+Here you can find some of my projects and contributes.🧑🏼‍💻
+
+🚧 This page is work in progress 🚧
